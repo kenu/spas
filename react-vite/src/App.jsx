@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
+import HiThere from './ch01/HiThere.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -40,6 +41,7 @@ function App() {
         <section>
           <h3>Hello World</h3>
         </section>
+        <HiThere />
       </header>
     </div>
   )
