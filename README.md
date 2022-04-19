@@ -10,3 +10,5 @@
 | svelte-vite | 34M |
 | vue-cv | 34M |
 | vue-vite | 34M |
+
+* command lines: https://okdevtv.com/mib/svelte
