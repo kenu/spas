@@ -37,6 +37,9 @@ function App() {
             Vite Docs
           </a>
         </p>
+        <section>
+          <h3>Hello World</h3>
+        </section>
       </header>
     </div>
   )
