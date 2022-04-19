@@ -18,6 +18,9 @@
     Check out <a href="https://github.com/sveltejs/kit#readme">SvelteKit</a> for
     the officially supported framework, also powered by Vite!
   </p>
+  <section>
+    <h3>Hello World</h3>
+  </section>
 </main>
 
 <style>
