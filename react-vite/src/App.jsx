@@ -3,6 +3,9 @@ import logo from './logo.svg'
 import './App.css'
 
 import HiThere from './ch01/HiThere.jsx'
+import ListArea from './ch01/ListArea.jsx'
+import ColorTest from './ch02/ColorTest.jsx'
+import ContextTest from './ch02/ContextTest.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -43,6 +46,9 @@ function App() {
           <h3>Hello World</h3>
         </section>
         <HiThere />
+        <ListArea />
+        <ColorTest />
+        <ContextTest />
       </header>
     </div>
   )
